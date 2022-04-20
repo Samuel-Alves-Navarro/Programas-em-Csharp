@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "conversao_de_tempo_1019/1.0.0": {
+        "runtime": {
+          "conversao_de_tempo_1019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "conversao_de_tempo_1019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

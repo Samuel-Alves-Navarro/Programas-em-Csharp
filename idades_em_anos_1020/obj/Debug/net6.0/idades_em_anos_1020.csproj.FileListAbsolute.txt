@@ -1,0 +1,15 @@
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\bin\Debug\net6.0\idades_em_anos_1020.exe
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\bin\Debug\net6.0\idades_em_anos_1020.deps.json
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\bin\Debug\net6.0\idades_em_anos_1020.runtimeconfig.json
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\bin\Debug\net6.0\idades_em_anos_1020.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\bin\Debug\net6.0\idades_em_anos_1020.pdb
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\idades_em_anos_1020.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\idades_em_anos_1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\idades_em_anos_1020.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\idades_em_anos_1020.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\idades_em_anos_1020.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\idades_em_anos_1020.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\refint\idades_em_anos_1020.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\idades_em_anos_1020.pdb
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\idades_em_anos_1020.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\idades_em_anos_1020\obj\Debug\net6.0\ref\idades_em_anos_1020.dll

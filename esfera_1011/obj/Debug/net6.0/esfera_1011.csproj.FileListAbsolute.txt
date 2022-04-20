@@ -1,0 +1,15 @@
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\bin\Debug\net6.0\esfera_1011.exe
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\bin\Debug\net6.0\esfera_1011.deps.json
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\bin\Debug\net6.0\esfera_1011.runtimeconfig.json
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\bin\Debug\net6.0\esfera_1011.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\bin\Debug\net6.0\esfera_1011.pdb
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\esfera_1011.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\esfera_1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\esfera_1011.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\esfera_1011.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\esfera_1011.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\esfera_1011.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\refint\esfera_1011.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\esfera_1011.pdb
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\esfera_1011.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\esfera_1011\obj\Debug\net6.0\ref\esfera_1011.dll

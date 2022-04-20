@@ -1,0 +1,15 @@
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\bin\Debug\net6.0\Programas em C#.exe
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\bin\Debug\net6.0\Programas em C#.deps.json
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\bin\Debug\net6.0\Programas em C#.runtimeconfig.json
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\bin\Debug\net6.0\Programas em C#.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\bin\Debug\net6.0\Programas em C#.pdb
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\Programas em C#.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\Programas em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\Programas em C#.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\Programas em C#.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\Programas em C#.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\Programas em C#.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\refint\Programas em C#.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\Programas em C#.pdb
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\Programas em C#.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\media_2\obj\Debug\net6.0\ref\Programas em C#.dll

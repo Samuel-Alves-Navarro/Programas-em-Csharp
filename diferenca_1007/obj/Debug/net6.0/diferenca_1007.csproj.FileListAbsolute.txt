@@ -1,0 +1,15 @@
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\diferenca_1007.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\diferenca_1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\diferenca_1007.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\diferenca_1007.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\diferenca_1007.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\bin\Debug\net6.0\diferenca_1007.exe
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\bin\Debug\net6.0\diferenca_1007.deps.json
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\bin\Debug\net6.0\diferenca_1007.runtimeconfig.json
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\bin\Debug\net6.0\diferenca_1007.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\bin\Debug\net6.0\diferenca_1007.pdb
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\diferenca_1007.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\refint\diferenca_1007.dll
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\diferenca_1007.pdb
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\diferenca_1007.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Documentos\2 ano\Disciplinas programatorias\LPGO\Programas em C#\diferenca_1007\obj\Debug\net6.0\ref\diferenca_1007.dll
