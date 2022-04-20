@@ -1,7 +1,6 @@
 using System;
 
-// dotnet new console = cria um console para compilação
-// dotnet run = compila o código pelo console criado 
+
 
 namespace P1_1019
 {
