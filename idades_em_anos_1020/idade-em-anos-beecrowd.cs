@@ -1,7 +1,5 @@
 using System;
 
-// dotnet new console = cria um console para compilação
-// dotnet run = compila o código pelo console criado 
 
 namespace P1_1019
 {
@@ -18,9 +16,9 @@ namespace P1_1019
             m = id / 30;
             id = id % 30;
             d = id / 1;
-            Console.WriteLine(string.Format("{0:0} ano" + id));
-            Console.WriteLine(string.Format("{0:0} mes(es)" + m));
-            Console.WriteLine(string.Format("{0:0} dia" + d));
+            Console.WriteLine(string.Format("{0:0} ano", a));
+            Console.WriteLine(string.Format("{0:0} mes(es)", m));
+            Console.WriteLine(string.Format("{0:0} dia", d));
         }
     }
 }
